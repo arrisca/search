@@ -1,0 +1,9 @@
+{
+  "books": [
+    { "id": 1, "type": "Fiction", "author": "Amit", "name": "Book1","cost":120 },
+    { "id": 2, "type": "Non-fiction", "author": "Nikita", "name": "Book2","cost":100 },
+    { "id": 3, "type": "Non-fiction", "author": "Nikita", "name": "Book3","cost":100 },
+    { "id": 4, "type": "Fiction", "author": "Amit", "name": "Book4","cost":120 },
+    { "id": 5, "type": "Fiction", "author": "Amit", "name": "Book5","cost":100 }
+  ]
+}
